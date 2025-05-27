@@ -15,8 +15,8 @@ This is a simple web UI for generating images using the [KWAI Kolors](https://hu
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/Raxephion/KolorForge-Kolors-WebUI
+    cd KolorForge-Kolors-WebUI
     ```
 
 2.  **Run the `install.bat` script:**

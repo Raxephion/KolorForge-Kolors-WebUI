@@ -1,0 +1,6 @@
+@echo off
+echo Activating virtual environment...
+call venv\Scripts\activate
+echo Launching KolorForge Kolors Web UI...
+python app.py
+pause
